@@ -6,6 +6,7 @@ Adafruit_DRV2605 drv;
 
  int motor1 = 5;
  int motor2 = 3;
+ //this isa comment
 
 void setup() {
   Serial.begin(9600);
